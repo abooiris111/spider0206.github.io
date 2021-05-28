@@ -1,0 +1,5 @@
+E:\VS sourse\Exsercies_2_CSharp\Ex_10\obj\Debug\Ex_10.csproj.CoreCompileInputs.cache
+E:\VS sourse\Exsercies_2_CSharp\Ex_10\bin\Debug\Ex_10.exe
+E:\VS sourse\Exsercies_2_CSharp\Ex_10\bin\Debug\Ex_10.pdb
+E:\VS sourse\Exsercies_2_CSharp\Ex_10\obj\Debug\Ex_10.exe
+E:\VS sourse\Exsercies_2_CSharp\Ex_10\obj\Debug\Ex_10.pdb

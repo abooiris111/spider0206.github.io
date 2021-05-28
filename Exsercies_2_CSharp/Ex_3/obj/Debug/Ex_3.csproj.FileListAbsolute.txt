@@ -1,0 +1,5 @@
+C:\Users\Thanh\source\repos\Exsercies_2_CSharp\Ex_3\bin\Debug\Ex_3.exe
+C:\Users\Thanh\source\repos\Exsercies_2_CSharp\Ex_3\bin\Debug\Ex_3.pdb
+C:\Users\Thanh\source\repos\Exsercies_2_CSharp\Ex_3\obj\Debug\Ex_3.csproj.CoreCompileInputs.cache
+C:\Users\Thanh\source\repos\Exsercies_2_CSharp\Ex_3\obj\Debug\Ex_3.exe
+C:\Users\Thanh\source\repos\Exsercies_2_CSharp\Ex_3\obj\Debug\Ex_3.pdb

@@ -1,0 +1,6 @@
+E:\VS sourse\Exercises_3_OOP\Ex_2\obj\Debug\Ex_2.csprojAssemblyReference.cache
+E:\VS sourse\Exercises_3_OOP\Ex_2\obj\Debug\Ex_2.csproj.CoreCompileInputs.cache
+E:\VS sourse\Exercises_3_OOP\Ex_2\bin\Debug\Ex_2.exe
+E:\VS sourse\Exercises_3_OOP\Ex_2\bin\Debug\Ex_2.pdb
+E:\VS sourse\Exercises_3_OOP\Ex_2\obj\Debug\Ex_2.exe
+E:\VS sourse\Exercises_3_OOP\Ex_2\obj\Debug\Ex_2.pdb

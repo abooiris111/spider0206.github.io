@@ -1,0 +1,6 @@
+E:\VS sourse\Labs\Lab1_HE141466_ThanhCV\bin\Debug\Lab1_HE141466_ThanhCV.exe
+E:\VS sourse\Labs\Lab1_HE141466_ThanhCV\bin\Debug\Lab1_HE141466_ThanhCV.pdb
+E:\VS sourse\Labs\Lab1_HE141466_ThanhCV\obj\Debug\Lab1_HE141466_ThanhCV.csprojAssemblyReference.cache
+E:\VS sourse\Labs\Lab1_HE141466_ThanhCV\obj\Debug\Lab1_HE141466_ThanhCV.csproj.CoreCompileInputs.cache
+E:\VS sourse\Labs\Lab1_HE141466_ThanhCV\obj\Debug\Lab1_HE141466_ThanhCV.exe
+E:\VS sourse\Labs\Lab1_HE141466_ThanhCV\obj\Debug\Lab1_HE141466_ThanhCV.pdb

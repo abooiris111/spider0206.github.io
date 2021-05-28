@@ -1,0 +1,6 @@
+E:\VS sourse\Session5_OOPinCSharp\Session5_OOPinCSharp\bin\Debug\Session5_OOPinCSharp.exe
+E:\VS sourse\Session5_OOPinCSharp\Session5_OOPinCSharp\bin\Debug\Session5_OOPinCSharp.pdb
+E:\VS sourse\Session5_OOPinCSharp\Session5_OOPinCSharp\obj\Debug\Session5_OOPinCSharp.csprojAssemblyReference.cache
+E:\VS sourse\Session5_OOPinCSharp\Session5_OOPinCSharp\obj\Debug\Session5_OOPinCSharp.csproj.CoreCompileInputs.cache
+E:\VS sourse\Session5_OOPinCSharp\Session5_OOPinCSharp\obj\Debug\Session5_OOPinCSharp.exe
+E:\VS sourse\Session5_OOPinCSharp\Session5_OOPinCSharp\obj\Debug\Session5_OOPinCSharp.pdb

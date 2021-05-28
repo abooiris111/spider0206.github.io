@@ -1,0 +1,6 @@
+C:\Users\Thanh\source\repos\Chapter7_Interface_Collection\Interface\bin\Debug\Interface.exe
+C:\Users\Thanh\source\repos\Chapter7_Interface_Collection\Interface\bin\Debug\Interface.pdb
+C:\Users\Thanh\source\repos\Chapter7_Interface_Collection\Interface\obj\Debug\Interface.csprojAssemblyReference.cache
+C:\Users\Thanh\source\repos\Chapter7_Interface_Collection\Interface\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+C:\Users\Thanh\source\repos\Chapter7_Interface_Collection\Interface\obj\Debug\Interface.exe
+C:\Users\Thanh\source\repos\Chapter7_Interface_Collection\Interface\obj\Debug\Interface.pdb

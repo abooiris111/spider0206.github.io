@@ -1,0 +1,6 @@
+C:\Users\Thanh\source\repos\Exsercies_2_CSharp\Ex_2\bin\Debug\Ex_2.exe
+C:\Users\Thanh\source\repos\Exsercies_2_CSharp\Ex_2\bin\Debug\Ex_2.pdb
+C:\Users\Thanh\source\repos\Exsercies_2_CSharp\Ex_2\obj\Debug\Ex_2.csprojAssemblyReference.cache
+C:\Users\Thanh\source\repos\Exsercies_2_CSharp\Ex_2\obj\Debug\Ex_2.csproj.CoreCompileInputs.cache
+C:\Users\Thanh\source\repos\Exsercies_2_CSharp\Ex_2\obj\Debug\Ex_2.exe
+C:\Users\Thanh\source\repos\Exsercies_2_CSharp\Ex_2\obj\Debug\Ex_2.pdb

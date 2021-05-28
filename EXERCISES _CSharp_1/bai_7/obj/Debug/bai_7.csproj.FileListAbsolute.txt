@@ -1,0 +1,5 @@
+E:\VS sourse\EXERCISES _CSharp_1\bai_7\bin\Debug\bai_7.exe
+E:\VS sourse\EXERCISES _CSharp_1\bai_7\bin\Debug\bai_7.pdb
+E:\VS sourse\EXERCISES _CSharp_1\bai_7\obj\Debug\bai_7.csproj.CoreCompileInputs.cache
+E:\VS sourse\EXERCISES _CSharp_1\bai_7\obj\Debug\bai_7.exe
+E:\VS sourse\EXERCISES _CSharp_1\bai_7\obj\Debug\bai_7.pdb

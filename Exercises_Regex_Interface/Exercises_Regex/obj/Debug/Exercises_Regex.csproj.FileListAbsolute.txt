@@ -1,0 +1,6 @@
+E:\VS sourse\Exercises_Regex_Interface\Exercises_Regex\bin\Debug\Exercises_Regex.exe
+E:\VS sourse\Exercises_Regex_Interface\Exercises_Regex\bin\Debug\Exercises_Regex.pdb
+E:\VS sourse\Exercises_Regex_Interface\Exercises_Regex\obj\Debug\Exercises_Regex.csprojAssemblyReference.cache
+E:\VS sourse\Exercises_Regex_Interface\Exercises_Regex\obj\Debug\Exercises_Regex.csproj.CoreCompileInputs.cache
+E:\VS sourse\Exercises_Regex_Interface\Exercises_Regex\obj\Debug\Exercises_Regex.exe
+E:\VS sourse\Exercises_Regex_Interface\Exercises_Regex\obj\Debug\Exercises_Regex.pdb

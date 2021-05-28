@@ -1,0 +1,6 @@
+E:\VS sourse\Exercises_Regex_Interface\Ex_Interface\bin\Debug\Ex_Interface.exe
+E:\VS sourse\Exercises_Regex_Interface\Ex_Interface\bin\Debug\Ex_Interface.pdb
+E:\VS sourse\Exercises_Regex_Interface\Ex_Interface\obj\Debug\Ex_Interface.csprojAssemblyReference.cache
+E:\VS sourse\Exercises_Regex_Interface\Ex_Interface\obj\Debug\Ex_Interface.csproj.CoreCompileInputs.cache
+E:\VS sourse\Exercises_Regex_Interface\Ex_Interface\obj\Debug\Ex_Interface.exe
+E:\VS sourse\Exercises_Regex_Interface\Ex_Interface\obj\Debug\Ex_Interface.pdb
